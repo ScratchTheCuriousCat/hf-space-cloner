@@ -1,5 +1,5 @@
 # hf-space-cloner
-Clone spaces on hugging face easily 🤗. "Open?" may not work. So input instead "n"
+Clone spaces on hugging face easily 🤗.
 
 # How to run
 You need git installed to clone.
@@ -14,3 +14,6 @@ Now, to start the program, run:
 ```cmd
   python cloner.py
 ```
+Note
+---
+"Open?" may not work. So input instead "n"
