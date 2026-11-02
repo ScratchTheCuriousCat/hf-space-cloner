@@ -10,3 +10,7 @@ Then run:
 ```cmd
   cd hf-space-cloner
 ```
+Now, to start the program, run:
+```cmd
+  python cloner.py
+```
